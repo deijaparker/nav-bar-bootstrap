@@ -1,0 +1,13 @@
+.carousel-item{
+    width:100%;
+    height:80vh;
+    border:solid orange;
+}
+.jordan{
+    height:22vh;
+    margin:1em;
+
+}
+.page-header{
+    border:solid black;
+}
